@@ -3,11 +3,17 @@ An app to control your PC's mouse with an android application.
 
 Having the following functions :
 1. Left Click
+
 2. Right Click ( Uner Process )
+
 3. Trackpad
+
 4. Scrolling
 
+
+
 To use :
+
 Install the android app on your andoird device.
 Connect your phone and your laptop to a common WiFi network.
 Run the .jar file on your laptop.
