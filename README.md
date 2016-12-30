@@ -5,7 +5,7 @@ Having the following functions :
 
 1. Left Click
 
-2. Right Click ( Uner Process )
+2. Right Click ( Under Process )
 
 3. Trackpad
 
